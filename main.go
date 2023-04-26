@@ -20,9 +20,9 @@ func init() { //  Подключение к PostgreSQL базе данных.
 	const (
 		host     = "localhost"
 		port     = 5432
-		user     = "postgres"
-		password = "93381022"
-		dbname   = "go_todo_gin"
+		user     = "your user"
+		password = "your password"
+		dbname   = "your name of the database"
 	)
 
 
